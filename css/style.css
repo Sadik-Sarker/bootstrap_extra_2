@@ -1,0 +1,35 @@
+.header,
+.hero,
+.body,
+.bar,
+.footer,
+.utilities_border,
+.utilities_border,
+.utilities_display {
+  margin: 10px 0;
+  background-color: aquamarine;
+}
+.box {
+  margin: 10px 0;
+  background-color: orangered;
+  color: white;
+  font-size: 30px;
+  min-height: 80px;
+}
+.three {
+  background-color: blue;
+}
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: lime;
+}
+.min_width {
+  min-width: 100px;
+}
+.align_height {
+  min-height: 200px;
+}
+.align_height2 {
+  min-height: 400px;
+}
